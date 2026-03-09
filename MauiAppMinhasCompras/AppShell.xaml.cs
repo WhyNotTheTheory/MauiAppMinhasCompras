@@ -1,4 +1,4 @@
-﻿namespace MauiAppMinhasCompras
+namespace MauiAppMinhasCompras
 {
     public partial class AppShell : Shell
     {
